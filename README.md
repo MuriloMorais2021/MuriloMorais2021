@@ -1,4 +1,4 @@
-### Welcome to my GitHub Repository 👋
+<h1 align="center"> Welcome to my GitHub Repository 👋</h1>
 
 <div align="center">
    <a href="https://github.com/MuriloMorais2021">
