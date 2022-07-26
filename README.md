@@ -16,6 +16,7 @@
   <img align="center" alt="PHP" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 </div>
 <br>
+
 ## Contacts
 <div>
    <a href="www.linkedin.com/in/murilo-morais-18096a1a9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
