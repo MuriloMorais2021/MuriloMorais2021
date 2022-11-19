@@ -11,7 +11,8 @@
   <img align="center" alt="CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PHP" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="PHP" height="100" width="100" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
+  <img align="center" alt="laravel" height="70" width="100" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg">
+   <img align="center" alt="laravel" height="70" width="100" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
   <img align="center" alt="PHP" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="PHP" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="PHP" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
